@@ -1,0 +1,7 @@
+D:\Source\Salesforce\obj\Release\net7.0\PubTmp\Out\Salesforce.exe
+D:\Source\Salesforce\obj\Release\net7.0\PubTmp\Out\appsettings.Development.json
+D:\Source\Salesforce\obj\Release\net7.0\PubTmp\Out\appsettings.json
+D:\Source\Salesforce\obj\Release\net7.0\PubTmp\Out\Salesforce.dll
+D:\Source\Salesforce\obj\Release\net7.0\PubTmp\Out\Salesforce.deps.json
+D:\Source\Salesforce\obj\Release\net7.0\PubTmp\Out\Salesforce.runtimeconfig.json
+D:\Source\Salesforce\obj\Release\net7.0\PubTmp\Out\Salesforce.pdb
