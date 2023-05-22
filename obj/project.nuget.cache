@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hoGUsnBzgQ+GXC8Jo2C1m5b5dBRAX7AOSLP9YfcNyLPArJejViRwKg1o0WmyQVIFTN6w0ucxz2xBCZL0XTmthg==",
+  "dgSpecHash": "G5YgVuEsDHLH5zrJd+pdXwZM5mcgMJGvvTRQAqnS7DNdfsIBl6xgxBNKTMjPjK/5B/TFIvyVd+HmwnFfpin/CA==",
   "success": true,
-  "projectFilePath": "D:\\Source\\Salesforce\\Salesforce.csproj",
+  "projectFilePath": "C:\\Users\\Douglas\\source\\repos\\salesforce\\Salesforce.csproj",
   "expectedPackageFiles": [],
   "logs": [
     {
