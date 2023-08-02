@@ -1,15 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "G5YgVuEsDHLH5zrJd+pdXwZM5mcgMJGvvTRQAqnS7DNdfsIBl6xgxBNKTMjPjK/5B/TFIvyVd+HmwnFfpin/CA==",
+  "dgSpecHash": "x/LCefI8CK+v9JTTyjkF6OhcBbYK2vzQd4twAzwvR8GnDh2t+QLQTSXEJOs2nMSWaOeBXWXfDnaboVVogGxGpg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Douglas\\source\\repos\\salesforce\\Salesforce.csproj",
+  "projectFilePath": "D:\\LOCUS\\Hiper\\SalesForce\\salesforce\\Salesforce.csproj",
   "expectedPackageFiles": [],
-  "logs": [
-    {
-      "code": "NU1803",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://nuget.sistemahiper.com.br/nuget'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
-    }
-  ]
+  "logs": []
 }

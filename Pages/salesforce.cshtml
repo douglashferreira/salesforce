@@ -15,6 +15,12 @@
 		embedded_svc.settings.language = ''; 
 		embedded_svc.settings.enabledFeatures = ['LiveAgent'];
 		embedded_svc.settings.entryFeature = 'LiveAgent';
+		embedded_svc.settings.prepopulatedPrechatFields = {
+			FirstName = "Mauricio",
+			LastName = "Xavier",
+			Email = "mauricio.xavier@hiper.com.br",
+			Subjetc = "Arrumar Treta..."
+		};
 		embedded_svc.init(
 			'https://hipersistema--hiperdev.sandbox.my.salesforce.com',
 			'https://hipersistema--hiperdev.sandbox.my.site.com/ajudahiper',

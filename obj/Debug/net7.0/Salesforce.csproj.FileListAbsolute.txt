@@ -29,3 +29,4 @@ D:\Source\Salesforce\obj\Debug\net7.0\refint\Salesforce.dll
 D:\Source\Salesforce\obj\Debug\net7.0\Salesforce.pdb
 D:\Source\Salesforce\obj\Debug\net7.0\Salesforce.genruntimeconfig.cache
 D:\Source\Salesforce\obj\Debug\net7.0\ref\Salesforce.dll
+D:\LOCUS\Hiper\SalesForce\salesforce\obj\Debug\net7.0\Salesforce.pdb
